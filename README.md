@@ -28,6 +28,47 @@ People store highly personal memories online without always knowing where their 
 
 The experience connects these concepts to the existing flow of creating, saving and accessing personal memories rather than introducing a separate platform.
 
+
+## Product Showcase
+
+A visual walkthrough of the interactive Minote privacy prototype, from account creation to protected memory access.
+
+### 01 / Landing Page
+
+![Minote Landing Page](screenshots/landing-page.png)
+
+### 02 / Account Creation
+
+Users create an account and configure a four-digit Memory PIN as part of the prototype's onboarding experience.
+
+![Account Creation](screenshots/create-account-memory-pin.png)
+
+### 03 / My Minote Dashboard
+
+Privacy features are integrated directly into Minote's existing memory experience.
+
+![My Minote Dashboard](screenshots/my-minote-dashboard.png)
+
+### 04 / Privacy Center
+
+An accessible overview of proposed encryption, storage and sharing controls.
+
+![Privacy Center](screenshots/privacy-center.png)
+
+### 05 / Protected Memories
+
+A dedicated memory area illustrating PIN-controlled access to private content.
+
+![Protected Memories](screenshots/protected-memories.png)
+
+### 06 / Memory PIN
+
+A custom PIN entry interface for unlocking private memories within the prototype.
+
+![Memory PIN](screenshots/unlock-memories-pin.png)
+
+*Security features are demonstrated at prototype level and have not been validated for production use.*
+
 ## My Role & Contributions
 
 The Innovation Pilot challenge originally involved a six-person team. Following a team restructuring, the project was completed by **two team members**. I took primary responsibility for developing the interactive web prototype and driving much of the work from research to final delivery.
